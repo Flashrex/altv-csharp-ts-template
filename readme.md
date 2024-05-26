@@ -1,7 +1,7 @@
 # Alt:V C# Server and TypeScript Client Template
 
-This project serves as a template for creating applications using Alt:V. It is structured to use C# on the server-side and TypeScript on the client-side.
-Is is setup to use Entity Framework as a easy to use ORM.
+This project serves as a template for creating gamemodes using [Alt:V](https://altv.mp/). It is structured to use C# on the server-side and TypeScript on the client-side.
+Is is setup to use [Entity Framework](https://learn.microsoft.com/en-us/ef/core/) as a easy to use ORM.
 
 ## Project Structure
 
