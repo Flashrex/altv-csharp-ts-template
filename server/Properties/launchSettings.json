@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "alt:V": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Projekte\\gta\\AltV\\altv-server\\altv-server.exe",
+      "workingDirectory": "D:\\Projekte\\gta\\AltV\\altv-server"
+    }
+  }
+}

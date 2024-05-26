@@ -1,0 +1,7 @@
+type = "csharp"
+main = "server/server.dll"
+
+client-main = "client/index.js"
+client-files = [
+    "client/*"
+]
