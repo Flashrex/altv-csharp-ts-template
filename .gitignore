@@ -1,0 +1,7 @@
+altv-server/*
+!altv-server/server.toml
+!altv-server/resources/
+altv-server/resources/*
+!altv-server/resources/gamemode/
+altv-server/resources/gamemode/*
+!altv-server/resources/gamemode/resource.toml
