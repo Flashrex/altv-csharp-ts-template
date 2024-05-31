@@ -3,6 +3,8 @@
 This project serves as a template for creating gamemodes using [Alt:V](https://altv.mp/). It is structured to use C# on the server-side and TypeScript on the client-side.
 Is is setup to use [Entity Framework](https://learn.microsoft.com/en-us/ef/core/) as a easy to use ORM.
 
+It provides a basic starting point for quickly starting a new project using async api.
+
 ## Project Structure
 
 The project is divided into two main parts:
