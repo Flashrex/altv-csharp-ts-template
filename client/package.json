@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon --watch src --ext * --exec \"tsc -p . && copyfiles.bat\""
   },
-  "author": "Flashrex",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@altv/types-client": "^16.2.2",
