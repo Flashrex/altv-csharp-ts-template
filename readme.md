@@ -28,7 +28,7 @@ It is recommended to put a updated altv-server.exe in /altv-server directory and
 ## Developing
 
 To edit client files run `npm run dev` in your client/ directory.
-Then you can simply edit or add .ts files and they get automatically compiled and put at the correct place on save.
+Then you can simply edit or add files and they get automatically compiled and put at the correct place on save.
 
 ## License
 
