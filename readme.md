@@ -35,6 +35,8 @@ Then you can simply edit or add files and they get automatically compiled and pu
 ## Migrations
 
 To create a database migration you first need to create an empty database and provide your connection string in appsettings.json.
+Now you need to install the [EF Core Tools](https://learn.microsoft.com/en-us/ef/core/cli/dotnet) using `dotnet tool install --global dotnet-ef` in your dotnet project base path.
+Afterwards you are able to run the following commands.
 
 Create Migration:
 ```
