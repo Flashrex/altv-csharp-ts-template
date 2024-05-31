@@ -32,6 +32,20 @@ It is recommended to put a updated altv-server.exe in /altv-server directory and
 To edit client files run `npm run dev` in your client/ directory.
 Then you can simply edit or add files and they get automatically compiled and put at the correct place on save.
 
+## Migrations
+
+To create a database migration you first need to create an empty database and provide your connection string in appsettings.json.
+
+Create Migration:
+```
+dotnet ef migrations add Update --output-dir Database/Migrations
+```
+
+Run Migration:
+```
+dotnet ef database update
+```
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
